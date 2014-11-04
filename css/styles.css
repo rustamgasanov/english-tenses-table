@@ -19,10 +19,14 @@ body {
 .simple-tense {
 }
 
+.progressive-tense {
+  color: #B22222;
+}
+
 .perfect-tense {
   color: #556B2F;
 }
 
-.progressive-tense {
-  color: #B22222;
+.perfect-continuous-tense {
+  color: #4B0082;
 }
