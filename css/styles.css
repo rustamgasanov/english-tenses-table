@@ -12,10 +12,14 @@ body {
   text-align: center;
 }
 
+.tense-description {
+  padding: 1em;
+}
+
 .simple-tense {
   color: #556B2F;
 }
 
-.tense-description {
-  padding: 1em;
+.progressive-tense {
+  color: #B22222;
 }
