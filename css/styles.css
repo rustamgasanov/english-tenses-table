@@ -1,0 +1,21 @@
+body {
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.tense-main-caption {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.tense-caption {
+  font-size: 1.3em;
+  text-align: center;
+}
+
+.simple-tense {
+  color: #556B2F;
+}
+
+.tense-description {
+  padding: 1em;
+}
