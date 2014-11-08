@@ -1,5 +1,5 @@
 body {
-  font-family: "Arial Black", Gadget, sans-serif;
+  font-family: Verdana, Geneva, sans-serif
 }
 
 .tense-main-caption {
@@ -35,4 +35,8 @@ body {
 
 .perfect-continuous-tense {
   color: #4B0082;
+}
+
+.label-big {
+  font-size: 0.8em;
 }
