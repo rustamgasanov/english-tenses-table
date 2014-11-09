@@ -7,6 +7,13 @@ body {
   font-weight: bold;
 }
 
+.simple-tense-main-caption {
+  color: #428BCA;
+}
+
+.simple-tense-caption {
+}
+
 .tense-caption {
   font-size: 1.3em;
   text-align: center;
