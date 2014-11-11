@@ -11,6 +11,10 @@ body {
   color: #428BCA;
 }
 
+.progressive-tense-main-caption {
+  color: #B22222;
+}
+
 .simple-tense-caption {
 }
 
@@ -33,15 +37,15 @@ body {
 }
 
 .progressive-tense {
-  color: #B22222;
+  /* color: #B22222; */
 }
 
 .perfect-tense {
-  color: #556B2F;
+  /* color: #556B2F; */
 }
 
 .perfect-continuous-tense {
-  color: #4B0082;
+  /* color: #4B0082; */
 }
 
 .label-big {
