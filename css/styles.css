@@ -8,19 +8,19 @@ body {
 }
 
 .simple-tense-main-caption {
-  color: #428BCA;
+  color: #777;
 }
 
 .progressive-tense-main-caption {
-  color: #B22222;
+  color: #D9534F;
 }
 
 .perfect-tense-main-caption {
-  color: #556B2F;
+  color: #5CB85C;
 }
 
 .perfect-continuous-tense-main-caption {
-  color: #4B0082;
+  color: #428BCA;
 }
 
 .tense-caption {
